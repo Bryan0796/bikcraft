@@ -19,7 +19,7 @@
   text-transform: uppercase;
 }
 
-.botao a:hover {
+.botao:hover {
   background: linear-gradient(#ffb60d, #e59317);
 }
 .botao.secundario {
